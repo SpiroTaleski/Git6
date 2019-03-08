@@ -1,0 +1,12 @@
+Batch ID,Company Code,Date,Header (Main) Memo,Line Memo,Account,Amount (Debit),Amount (Credit),Department,Business (Class),Product,Reversal Date,Defer Entry
+GS731JAN18-3,5,1/31/2018,Telephony Network Accrual,Telephone Expense,6070,1621.47,0,40,0,0,2/1/2018,
+GS731JAN18-2,5,1/31/2018,Telephony Network Accrual,Telephone Expense,6070,3531.38,1,70,0,0,2/1/2018,
+,20,1/31/218,Telephony Network Accrual,Telephony Network Costs,5805,14121.81,0,0,10,30,2/1/2018,
+GS731JAN18-3,20,,Telephony Network Accrual,Telephony Network Costs,5805,49324.2,0,0,10,30,2/1/2018,
+GS731JAN18-3,21,1/31/2018,Telephony Network Accrual,Telephony Network Costs,5805,10382.86,0,0,10,30,,
+GS731JAN18-3,21,1/31/2018,Telephony Network Accrual,Wholesale Direct Expense,5910,0,41.67,0,30,40,2/1/2018,
+GS731JAN18-3,21,1/31/2018,Telephony Network Accrual,Telephony Network Costs,5910,43589.82,0,0,10,30,2/10/2018,
+GS731JAN18-3,23,1/31/2018,Telephony Network Accrual,Telephony Network Costs,5805,0,0,0,10,30,2/1/2018,
+GS731JAN18-3,23,1/31/2018,Telephony Network Accrual,Telephony Network Costs,5805,29501.62,0,0,10,30,2/1/2018,
+GS731JAN18-3,25,1/31/2018,Telephony Network Accrual,Telephony Network Costs,5805,12712.37,0,10,10,,2/1/2018,
+GS731JAN18-3,25,1/31/2018,Telephony Network Accrual,Telephony Network Costs,5805,16307.85,0,0,10,30,2/1/2018,

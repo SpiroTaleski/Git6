@@ -1,0 +1,39 @@
+{
+    "class_id": "com-snaplogic-snaps-dynamicsax-dynamicsaxaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "DA"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "domain": {
+                "value": "DQW3"
+            },
+            "endpoint": {
+                "value": "ADADA"
+            },
+            "object": {
+                "value": "Customer"
+            },
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "iHuhN/ULmEo0YohKV9lVEQ==",
+                "sym_key": "iZGH9yf/J4HPj1atIr728TW0tSzkKtUndmpoXIlhuAlxrwsNaBPqmwrh1duFtXCNUQVCM2nDj9qIgpqoJN3u7fUB5QFN+anxYd89jq2hmgy0UJ9r90RIYQfW6OGoSAauoghjHKkY0Mci5uPJsGUWhzC8p/R/6fAIEBQrS7AokeN54845n4yO8QyyT8LG+GHFqCh4gVMd91IOZ6pw1vh2hKsVPvJQsIp9sgypEeLZKAnSsKqAGUo3OnKlXBVqb1CVUMIpxAMA+uCTVNUksrc5mkLPIJmZHl7JA+fgsJiOS6ODMg3lwTojpf8Dw485xDTsw6xb+DiTc9WSnKHLyRcS1g==",
+                "value": "9ugivo2OS4nx41jdBagPFQ=="
+            },
+            "username": {
+                "value": "DASDA"
+            }
+        },
+        "view_serial": 100
+    }
+}
